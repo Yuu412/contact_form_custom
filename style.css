@@ -1,0 +1,60 @@
+body {
+  font-family: "Montserrat", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  background-color: #FFFFFF;
+}
+
+.inputForm{
+
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+  width: 140;
+}
+
+.input0 {
+  width: 100px;
+  margin: 3 0 0 120px;
+}
+.input1 {
+  margin: 3 0 0 100px;
+}
+.input2 {
+  width: 100px;
+  margin-top: 3;
+}
+.input3 {
+  width: 350px;
+  margin-top: 3;
+  margin-left: 245px;
+}
+.input4 {
+  width: 350px;
+  margin-top: 3;
+  margin: 3 0 0 100px;
+}
+.input5 {
+  width: 200px;
+  margin: 3 0 0 100px;
+}
+.input6 {
+  height: 200;
+  width: 400;
+  margin: 3 0 0 100px;
+}
+.input7 {
+  margin: 3 0 0 245px;
+}
+
+.indent{
+  position: absolute;
+  margin-left: 100;
+  margin-top: 5;
+  font-size: 70%;
+}
+
+.indent2{
+  margin-top: 10;
+  font-size: 70%;
+}
